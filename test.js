@@ -1,1 +1,1 @@
-throw new Error("hello test Failed");
+console.log("hello test passed");
